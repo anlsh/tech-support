@@ -1,0 +1,3296 @@
+Computer Information:
+    Manufacturer:  LENOVO
+    Model:  20MF000BUS
+    Form Factor: Laptop
+    No Touch Input Detected
+
+Processor Information:
+    CPU Vendor:  GenuineIntel
+    CPU Brand:  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+    CPU Family:  0x6
+    CPU Model:  0x9e
+    CPU Stepping:  0xa
+    CPU Type:  0x0
+    Speed:  4100 Mhz
+    12 logical processors
+    6 physical processors
+    HyperThreading:  Supported
+    FCMOV:  Supported
+    SSE2:  Supported
+    SSE3:  Supported
+    SSSE3:  Supported
+    SSE4a:  Unsupported
+    SSE41:  Supported
+    SSE42:  Supported
+    AES:  Supported
+    AVX:  Supported
+    AVX2:  Supported
+    AVX512F:  Unsupported
+    AVX512PF:  Unsupported
+    AVX512ER:  Unsupported
+    AVX512CD:  Unsupported
+    AVX512VNNI:  Unsupported
+    SHA:  Unsupported
+    CMPXCHG16B:  Supported
+    LAHF/SAHF:  Supported
+    PrefetchW:  Unsupported
+
+Operating System Version:
+    Pop!_OS 22.04 LTS (64 bit)
+    Kernel Name:  Linux
+    Kernel Version:  6.2.0-76060200-generic
+    X Server Vendor:  The X.Org Foundation
+    X Server Release:  12101003
+    X Window Manager:  GNOME Shell
+    Steam Runtime Version:  steam-runtime_0.20221019.0
+
+Video Card:
+    Driver:  NVIDIA Corporation NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2
+    Driver Version:  4.6.0 NVIDIA 525.85.05
+    OpenGL Version: 4.6
+    Desktop Color Depth: 24 bits per pixel
+    Monitor Refresh Rate: 60 Hz
+    VendorID:  0x10de
+    DeviceID:  0x1c8c
+    Revision Not Detected
+    Number of Monitors:  1
+    Number of Logical Video Cards:  2
+    Primary Display Resolution:  1920 x 1080
+    Desktop Resolution: 1920 x 1080
+    Primary Display Size: 13.54" x 7.64" (15.51" diag)
+                                            34.4cm x 19.4cm (39.4cm diag)
+    Primary Bus: PCI Express 16x
+    Primary VRAM: 4096 MB
+    Supported MSAA Modes:  2x 4x 8x 16x
+
+Sound card:
+    Audio device: Realtek ALC285
+
+Memory:
+    RAM:  15451 MB
+
+VR Hardware:
+    VR Headset: None detected
+
+Miscellaneous:
+    UI Language:  English
+    LANG:  en_US.UTF-8
+    Total Hard Disk Space Available:  471046 MB
+    Largest Free Hard Disk Block:  25843 MB
+
+Storage:
+    Number of SSDs: 3
+    SSD sizes: 512G,500G,0B
+    Number of HDDs: 0
+
+
+"LD_* scout runtime" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/anish/.local/share/Steam",
+    "data_path" : "/home/anish/.local/share/Steam",
+    "bin32_path" : "/home/anish/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/bin/steam",
+    "steamscript_version" : "1.0.0.75",
+    "issues" : [
+    ]
+  },
+  "runtime" : {
+    "path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime",
+    "version" : "0.20221019.0",
+    "issues" : [
+    ],
+    "pinned_libs_32" : {
+      "list" : [
+        "pinned_libs_32/done",
+        "pinned_libs_32/has_pins",
+        "pinned_libs_32/libcurl-gnutls.so.3 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libcurl-gnutls.so.4.2.0",
+        "pinned_libs_32/libcurl-gnutls.so.4 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libcurl-gnutls.so.4.2.0",
+        "pinned_libs_32/libcurl.so.3 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libcurl.so.4.2.0",
+        "pinned_libs_32/libcurl.so.4 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libcurl.so.4.2.0",
+        "pinned_libs_32/libdbus-1.so.3 -> $STEAM_RUNTIME/lib/i386-linux-gnu/libdbus-1.so.3.5.8",
+        "pinned_libs_32/libdbusmenu-glib.so.4 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libdbusmenu-glib.so.4.0.13",
+        "pinned_libs_32/libdbusmenu-gtk.so.4 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libdbusmenu-gtk.so.4.0.13",
+        "pinned_libs_32/libgtk-x11-2.0.so.0 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libgtk-x11-2.0.so.0.2400.10",
+        "pinned_libs_32/libvulkan.so.1 -> $STEAM_RUNTIME/usr/lib/i386-linux-gnu/libvulkan.so.1.3.224",
+        "pinned_libs_32/system_libvulkan.so.1"
+      ]
+    },
+    "pinned_libs_64" : {
+      "list" : [
+        "pinned_libs_64/done",
+        "pinned_libs_64/has_pins",
+        "pinned_libs_64/libGLU.so.1 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libGLU.so.1.3.08004",
+        "pinned_libs_64/libSDL2-2.0.so.0 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0.2400.1",
+        "pinned_libs_64/libSDL2_image-2.0.so.0 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so.0.600.0",
+        "pinned_libs_64/libcurl-gnutls.so.3 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4.2.0",
+        "pinned_libs_64/libcurl-gnutls.so.4 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4.2.0",
+        "pinned_libs_64/libcurl.so.3 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libcurl.so.4.2.0",
+        "pinned_libs_64/libcurl.so.4 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libcurl.so.4.2.0",
+        "pinned_libs_64/libdbusmenu-glib.so.4 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libdbusmenu-glib.so.4.0.13",
+        "pinned_libs_64/libdbusmenu-gtk.so.4 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libdbusmenu-gtk.so.4.0.13",
+        "pinned_libs_64/libvulkan.so.1 -> $STEAM_RUNTIME/usr/lib/x86_64-linux-gnu/libvulkan.so.1.3.224",
+        "pinned_libs_64/system_libGLU.so.1",
+        "pinned_libs_64/system_libSDL2-2.0.so.0",
+        "pinned_libs_64/system_libSDL2_image-2.0.so.0",
+        "pinned_libs_64/system_libcurl-gnutls.so.4",
+        "pinned_libs_64/system_libcurl.so.4",
+        "pinned_libs_64/system_libdbusmenu-glib.so.4",
+        "pinned_libs_64/system_libdbusmenu-gtk.so.4",
+        "pinned_libs_64/system_libvulkan.so.1"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "pop",
+    "id_like" : [
+      "ubuntu",
+      "debian"
+    ],
+    "name" : "Pop!_OS",
+    "pretty_name" : "Pop!_OS 22.04 LTS",
+    "version_id" : "22.04",
+    "version_codename" : "jammy"
+  },
+  "virtualization" : {
+    "type" : "none"
+  },
+  "container" : {
+    "type" : "none"
+  },
+  "driver_environment" : [
+    "DISPLAY=:1",
+    "LD_LIBRARY_PATH=/home/anish/.local/share/Steam/ubuntu12_32:/home/anish/.local/share/Steam/ubuntu12_32/panorama:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_32:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_64:/usr/lib/x86_64-linux-gnu/libfakeroot:/lib/i386-linux-gnu:/usr/local/lib:/usr/lib/x86_64-linux-gnu/pipewire-0.3/jack:/lib/x86_64-linux-gnu:/lib32:/lib:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/lib/x86_64-linux-gnu:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/lib:/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n030000004c050000cc09000011810000,PS4 Controller,a:b0,b:b1,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b11,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b12,righttrigger:a5,rightx:a3,righty:a4,start:b9,x:b3,y:b2,platform:Linux",
+    "XDG_RUNTIME_DIR=/run/user/1000"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/i386-linux-gnu",
+      "libdl-PLATFORM" : "i686",
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib/i386-linux-gnu/ld-linux.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "timeout: the monitored command dumped core"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : -1,
+          "terminating-signal" : 11,
+          "terminating-signal-name" : "Segmentation fault",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "NVIDIA VDPAU Driver Shared Library  525.85.05  Sat Jan 14 00:22:07 UTC 2023\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/i386-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "messages" : [
+            "Wflinfo error: failed to get function pointer for glGetError"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "glvnd",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/zink_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/dri/dummy_drv_video.so",
+          "version" : "libva1"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/usr/lib/i386-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/x86_64-linux-gnu",
+      "libdl-PLATFORM" : "haswell",
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "timeout",
+            "cannot-draw"
+          ],
+          "exit-status" : 124,
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "NVIDIA VDPAU Driver Shared Library  525.85.05  Sat Jan 14 00:38:30 UTC 2023\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "OpenGL ES 3.2 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i830_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/dri/dummy_drv_video.so",
+          "version" : "libva1"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.525.85.05"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.525.85.05"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so",
+          "library_link" : "libvdpau_va_gl.so.1"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so.1",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ],
+    "external_platforms" : [
+      {
+        "json_path" : "/usr/share/egl/egl_external_platform.d/10_nvidia_wayland.json",
+        "library_path" : "libnvidia-egl-wayland.so.1",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+        "library_path" : "libnvidia-egl-gbm.so.1",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/nvidia_icd.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.3.224",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_hasvk_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/lvp_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_INTEL_nullhw.json",
+        "name" : "VK_LAYER_INTEL_nullhw",
+        "description" : "INTEL NULL HW",
+        "type" : "GLOBAL",
+        "api_version" : "1.1.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_INTEL_nullhw.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_MESA_overlay.json",
+        "name" : "VK_LAYER_MESA_overlay",
+        "description" : "Mesa Overlay layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_overlay.so",
+        "issues" : [
+        ]
+      }
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/home/anish/.local/share/vulkan/implicit_layer.d/steamfossilize_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/anish/.local/share/vulkan/implicit_layer.d/steamfossilize_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/home/anish/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/anish/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/anish/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/home/anish/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/implicit_layer.d/VkLayer_MESA_device_select.json",
+        "name" : "VK_LAYER_MESA_device_select",
+        "description" : "Linux device selection layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_device_select.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/implicit_layer.d/nvidia_layers.json",
+        "name" : "VK_LAYER_NV_optimus",
+        "description" : "NVIDIA Optimus layer",
+        "type" : "INSTANCE",
+        "api_version" : "1.3.224",
+        "implementation_version" : "1",
+        "library_path" : "libGLX_nvidia.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+    {
+      "id" : "steam.desktop",
+      "commandline" : "/usr/bin/steam %U",
+      "filename" : "/usr/share/applications/steam.desktop",
+      "default_steam_uri_handler" : true,
+      "steam_uri_handler" : true
+    }
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+
+"scout runtime container" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/anish/.local/share/Steam",
+    "data_path" : "/home/anish/.local/share/Steam",
+    "bin32_path" : "/home/anish/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/bin/steam",
+    "steamscript_version" : "1.0.0.75",
+    "issues" : [
+      "missing-steam-uri-handler",
+      "unexpected-steam-uri-handler"
+    ]
+  },
+  "runtime" : {
+    "path" : "/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime",
+    "version" : "0.20221019.0",
+    "issues" : [
+      "unexpected-location"
+    ],
+    "overrides" : {
+      "list" : [
+        "overrides/lib/",
+        "overrides/lib/i386-linux-gnu/",
+        "overrides/lib/i386-linux-gnu/aliases/",
+        "overrides/lib/i386-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/i386-linux-gnu/libOSMesa.so.8",
+        "overrides/lib/i386-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/i386-linux-gnu/libXaw.so.7",
+        "overrides/lib/i386-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/i386-linux-gnu/libbz2.so.1.0",
+        "overrides/lib/i386-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/i386-linux-gnu/libcurl-gnutls.so.4",
+        "overrides/lib/i386-linux-gnu/dri/",
+        "overrides/lib/i386-linux-gnu/dri/crocus_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/i386-linux-gnu/libBrokenLocale.so.1",
+        "overrides/lib/i386-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libEGL.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/i386-linux-gnu/libEGL_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/i386-linux-gnu/libEGL_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libGL.so.1.7.0",
+        "overrides/lib/i386-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/i386-linux-gnu/libGLESv1_CM_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/i386-linux-gnu/libGLESv2_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLdispatch.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libLLVM-15.so.1 -> /run/host/usr/lib/i386-linux-gnu/libLLVM-15.so.1",
+        "overrides/lib/i386-linux-gnu/libVkLayer_INTEL_nullhw.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_INTEL_nullhw.so",
+        "overrides/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so",
+        "overrides/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so",
+        "overrides/lib/i386-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libX11-xcb.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libX11.so.6 -> /run/host/usr/lib/i386-linux-gnu/libX11.so.6.4.0",
+        "overrides/lib/i386-linux-gnu/libXau.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXau.so.6.0.0",
+        "overrides/lib/i386-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXdmcp.so.6.0.0",
+        "overrides/lib/i386-linux-gnu/libXext.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXext.so.6.4.0",
+        "overrides/lib/i386-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/i386-linux-gnu/libXfixes.so.3.1.0",
+        "overrides/lib/i386-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/i386-linux-gnu/libXxf86vm.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libanl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libanl.so.1",
+        "overrides/lib/i386-linux-gnu/libatomic.so.1 -> /run/host/usr/lib/i386-linux-gnu/libatomic.so.1.2.0",
+        "overrides/lib/i386-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/i386-linux-gnu/libbsd.so.0.11.5",
+        "overrides/lib/i386-linux-gnu/libc.so.6 -> /run/host/usr/lib/i386-linux-gnu/libc.so.6",
+        "overrides/lib/i386-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/i386-linux-gnu/libcrypt.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/i386-linux-gnu/libcuda.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libdl.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdl.so.2",
+        "overrides/lib/i386-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm.so.2.4.0",
+        "overrides/lib/i386-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_intel.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_radeon.so.1.0.1",
+        "overrides/lib/i386-linux-gnu/libedit.so.2 -> /run/host/usr/lib/i386-linux-gnu/libedit.so.2.0.68",
+        "overrides/lib/i386-linux-gnu/libelf.so.1 -> /run/host/usr/lib/i386-linux-gnu/libelf-0.186.so",
+        "overrides/lib/i386-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/i386-linux-gnu/libexpat.so.1.8.7",
+        "overrides/lib/i386-linux-gnu/libffi.so.8 -> /run/host/usr/lib/i386-linux-gnu/libffi.so.8.1.0",
+        "overrides/lib/i386-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/i386-linux-gnu/libgbm.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/i386-linux-gnu/libgcc_s.so.1",
+        "overrides/lib/i386-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/i386-linux-gnu/libglapi.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libicudata.so.70 -> /run/host/usr/lib/i386-linux-gnu/libicudata.so.70.1",
+        "overrides/lib/i386-linux-gnu/libicuuc.so.70 -> /run/host/usr/lib/i386-linux-gnu/libicuuc.so.70.1",
+        "overrides/lib/i386-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libidn2.so.0.3.7",
+        "overrides/lib/i386-linux-gnu/libigdgmm.so.12 -> /run/host/usr/lib/i386-linux-gnu/libigdgmm.so.12.1.0",
+        "overrides/lib/i386-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/i386-linux-gnu/liblzma.so.5.2.5",
+        "overrides/lib/i386-linux-gnu/libm.so.6 -> /run/host/usr/lib/i386-linux-gnu/libm.so.6",
+        "overrides/lib/i386-linux-gnu/libmd.so.0 -> /run/host/usr/lib/i386-linux-gnu/libmd.so.0.0.5",
+        "overrides/lib/i386-linux-gnu/libmemusage.so -> /run/host/usr/lib/i386-linux-gnu/libmemusage.so",
+        "overrides/lib/i386-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnsl.so.1",
+        "overrides/lib/i386-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_compat.so.2",
+        "overrides/lib/i386-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_dns.so.2",
+        "overrides/lib/i386-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_files.so.2",
+        "overrides/lib/i386-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvcuvid.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-compiler.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-compiler.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-eglcore.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-eglcore.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-encode.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-fbc.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glcore.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glcore.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glsi.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glsi.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glvkspirv.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glvkspirv.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-ml.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-opencl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-opencl.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-opticalflow.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-opticalflow.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-ptxjitcompiler.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-tls.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-tls.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpciaccess.so.0.11.1",
+        "overrides/lib/i386-linux-gnu/libpcprofile.so -> /run/host/usr/lib/i386-linux-gnu/libpcprofile.so",
+        "overrides/lib/i386-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpthread.so.0",
+        "overrides/lib/i386-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/i386-linux-gnu/libresolv.so.2",
+        "overrides/lib/i386-linux-gnu/librt.so.1 -> /run/host/usr/lib/i386-linux-gnu/librt.so.1",
+        "overrides/lib/i386-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/i386-linux-gnu/libsensors.so.5.0.0",
+        "overrides/lib/i386-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/i386-linux-gnu/libstdc++.so.6.0.30",
+        "overrides/lib/i386-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/i386-linux-gnu/libthread_db.so.1",
+        "overrides/lib/i386-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/i386-linux-gnu/libtinfo.so.6.3",
+        "overrides/lib/i386-linux-gnu/libudev.so.1 -> /run/host/usr/lib/i386-linux-gnu/libudev.so.1.7.2",
+        "overrides/lib/i386-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/i386-linux-gnu/libunistring.so.2.2.0",
+        "overrides/lib/i386-linux-gnu/libutil.so.1 -> /run/host/usr/lib/i386-linux-gnu/libutil.so.1",
+        "overrides/lib/i386-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-drm.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-glx.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-x11.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/i386-linux-gnu/libwayland-client.so.0.20.0",
+        "overrides/lib/i386-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/i386-linux-gnu/libwayland-server.so.0.20.0",
+        "overrides/lib/i386-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri2.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri3.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-glx.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-present.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-randr.so.0.1.0",
+        "overrides/lib/i386-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-shm.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb-sync.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/i386-linux-gnu/libxml2.so.2.9.13",
+        "overrides/lib/i386-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxshmfence.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libz.so.1 -> /run/host/usr/lib/i386-linux-gnu/libz.so.1.2.11",
+        "overrides/lib/i386-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/i386-linux-gnu/libzstd.so.1.4.8",
+        "overrides/lib/i386-linux-gnu/vulkan/",
+        "overrides/lib/i386-linux-gnu/vulkan/0/",
+        "overrides/lib/i386-linux-gnu/vulkan/2/",
+        "overrides/lib/i386-linux-gnu/vulkan/3/",
+        "overrides/lib/i386-linux-gnu/vulkan/3/libvulkan_intel_hasvk.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_intel_hasvk.so",
+        "overrides/lib/i386-linux-gnu/vulkan/4/",
+        "overrides/lib/i386-linux-gnu/vulkan/5/",
+        "overrides/lib/i386-linux-gnu/vulkan/5/libvulkan_intel.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_intel.so",
+        "overrides/lib/i386-linux-gnu/vulkan/6/",
+        "overrides/lib/i386-linux-gnu/vulkan/7/",
+        "overrides/lib/i386-linux-gnu/vulkan/7/libvulkan_radeon.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_radeon.so",
+        "overrides/lib/i386-linux-gnu/vulkan/8/",
+        "overrides/lib/i386-linux-gnu/vulkan/8/libvulkan_lvp.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_lvp.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/libVkLayer_steam_fossilize.so -> $HOME/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/1/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/steamoverlayvulkanlayer.so -> $HOME/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/3/",
+        "overrides/lib/platform-haswell -> x86_64-linux-gnu",
+        "overrides/lib/platform-i386 -> i386-linux-gnu",
+        "overrides/lib/platform-i486 -> i386-linux-gnu",
+        "overrides/lib/platform-i586 -> i386-linux-gnu",
+        "overrides/lib/platform-i686 -> i386-linux-gnu",
+        "overrides/lib/platform-x86_64 -> x86_64-linux-gnu",
+        "overrides/lib/platform-xeon_phi -> x86_64-linux-gnu",
+        "overrides/lib/x86_64-linux-gnu/",
+        "overrides/lib/x86_64-linux-gnu/aliases/",
+        "overrides/lib/x86_64-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/x86_64-linux-gnu/libOSMesa.so.8",
+        "overrides/lib/x86_64-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/x86_64-linux-gnu/libXaw.so.7",
+        "overrides/lib/x86_64-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/x86_64-linux-gnu/libbz2.so.1.0",
+        "overrides/lib/x86_64-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4",
+        "overrides/lib/x86_64-linux-gnu/dri/",
+        "overrides/lib/x86_64-linux-gnu/dri/crocus_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i830_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libBrokenLocale.so.1",
+        "overrides/lib/x86_64-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGL.so.1.7.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv1_CM.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv1_CM.so.1.2.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv2.so.2.1.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libLLVM-15.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+        "overrides/lib/x86_64-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libOpenCL.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libOpenGL.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_INTEL_nullhw.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_INTEL_nullhw.so",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so",
+        "overrides/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libX11.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0",
+        "overrides/lib/x86_64-linux-gnu/libXNVCtrl.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libXNVCtrl.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXau.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXext.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0",
+        "overrides/lib/x86_64-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0",
+        "overrides/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libanl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libanl.so.1",
+        "overrides/lib/x86_64-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5",
+        "overrides/lib/x86_64-linux-gnu/libc.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libc.so.6",
+        "overrides/lib/x86_64-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libcuda.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libdl.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdl.so.2",
+        "overrides/lib/x86_64-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1",
+        "overrides/lib/x86_64-linux-gnu/libedit.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libedit.so.2.0.68",
+        "overrides/lib/x86_64-linux-gnu/libelf.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libelf-0.186.so",
+        "overrides/lib/x86_64-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libexpat.so.1.8.7",
+        "overrides/lib/x86_64-linux-gnu/libffi.so.8 -> /run/host/usr/lib/x86_64-linux-gnu/libffi.so.8.1.0",
+        "overrides/lib/x86_64-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgcc_s.so.1",
+        "overrides/lib/x86_64-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libicudata.so.70 -> /run/host/usr/lib/x86_64-linux-gnu/libicudata.so.70.1",
+        "overrides/lib/x86_64-linux-gnu/libicuuc.so.70 -> /run/host/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1",
+        "overrides/lib/x86_64-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libidn2.so.0.3.7",
+        "overrides/lib/x86_64-linux-gnu/libigdgmm.so.12 -> /run/host/usr/lib/x86_64-linux-gnu/libigdgmm.so.12.1.0",
+        "overrides/lib/x86_64-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5",
+        "overrides/lib/x86_64-linux-gnu/libm.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libm.so.6",
+        "overrides/lib/x86_64-linux-gnu/libmd.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libmd.so.0.0.5",
+        "overrides/lib/x86_64-linux-gnu/libmemusage.so -> /run/host/usr/lib/x86_64-linux-gnu/libmemusage.so",
+        "overrides/lib/x86_64-linux-gnu/libmvec.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libmvec.so.1",
+        "overrides/lib/x86_64-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnsl.so.1",
+        "overrides/lib/x86_64-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_compat.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_dns.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_files.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvcuvid.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-cfg.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-compiler.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-compiler.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1.1.9",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-eglcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-encode.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glsi.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-ml.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-opencl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-rtcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-tls.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-tls.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1",
+        "overrides/lib/x86_64-linux-gnu/libpcprofile.so -> /run/host/usr/lib/x86_64-linux-gnu/libpcprofile.so",
+        "overrides/lib/x86_64-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpthread.so.0",
+        "overrides/lib/x86_64-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libresolv.so.2",
+        "overrides/lib/x86_64-linux-gnu/librt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/librt.so.1",
+        "overrides/lib/x86_64-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0",
+        "overrides/lib/x86_64-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30",
+        "overrides/lib/x86_64-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libthread_db.so.1",
+        "overrides/lib/x86_64-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libtinfo.so.6.3",
+        "overrides/lib/x86_64-linux-gnu/libudev.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libudev.so.1.7.2",
+        "overrides/lib/x86_64-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libunistring.so.2.2.0",
+        "overrides/lib/x86_64-linux-gnu/libutil.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libutil.so.1",
+        "overrides/lib/x86_64-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-drm.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-glx.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-x11.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libvdpau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.20.0",
+        "overrides/lib/x86_64-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.20.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri2.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13",
+        "overrides/lib/x86_64-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libz.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libz.so.1.2.11",
+        "overrides/lib/x86_64-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8",
+        "overrides/lib/x86_64-linux-gnu/vdpau/",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vulkan/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/0/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/0/libvulkan_lvp.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/2/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_intel.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/3/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/4/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/4/libvulkan_radeon.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_radeon.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/5/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/6/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/6/libvulkan_intel_hasvk.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_intel_hasvk.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/7/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/8/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/0/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/libVkLayer_steam_fossilize.so -> $HOME/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/2/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/steamoverlayvulkanlayer.so -> $HOME/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "overrides/share/",
+        "overrides/share/egl/",
+        "overrides/share/egl/egl_external_platform.d/",
+        "overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json -> /run/host/usr/share/egl/egl_external_platform.d/10_nvidia_wayland.json",
+        "overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json -> /run/host/usr/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+        "overrides/share/glvnd/",
+        "overrides/share/glvnd/egl_vendor.d/",
+        "overrides/share/glvnd/egl_vendor.d/10_nvidia.json -> /run/host/usr/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "overrides/share/glvnd/egl_vendor.d/50_mesa.json -> /run/host/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+        "overrides/share/vulkan/",
+        "overrides/share/vulkan/explicit_layer.d/",
+        "overrides/share/vulkan/explicit_layer.d/0.json -> /run/host/usr/share/vulkan/explicit_layer.d/VkLayer_INTEL_nullhw.json",
+        "overrides/share/vulkan/explicit_layer.d/1.json -> /run/host/usr/share/vulkan/explicit_layer.d/VkLayer_MESA_overlay.json",
+        "overrides/share/vulkan/icd.d/",
+        "overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json",
+        "overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/intel_icd.i686.json",
+        "overrides/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+        "overrides/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/nvidia_icd.json -> /run/host/usr/share/vulkan/icd.d/nvidia_icd.json",
+        "overrides/share/vulkan/icd.d/radeon_icd.i686.json",
+        "overrides/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "overrides/share/vulkan/implicit_layer.d/",
+        "overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/4.json -> /run/host/usr/share/vulkan/implicit_layer.d/VkLayer_MESA_device_select.json",
+        "overrides/share/vulkan/implicit_layer.d/5.json -> /run/host/usr/share/vulkan/implicit_layer.d/nvidia_layers.json"
+      ]
+    },
+    "pinned_libs_32" : {
+      "list" : [
+        "pinned_libs_32/libcurl.so.3 -> $HOME/.steam/root/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libcurl.so.4",
+        "pinned_libs_32/libcurl.so.4 -> $HOME/.steam/root/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libcurl.so.4"
+      ]
+    },
+    "pinned_libs_64" : {
+      "list" : [
+        "pinned_libs_64/libcurl.so.3 -> $HOME/.steam/root/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libcurl.so.4",
+        "pinned_libs_64/libcurl.so.4 -> $HOME/.steam/root/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libcurl.so.4"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "steamrt",
+    "id_like" : [
+      "debian"
+    ],
+    "name" : "Steam Runtime",
+    "pretty_name" : "Steam Runtime 2 (soldier)",
+    "version_id" : "2",
+    "version_codename" : "soldier",
+    "build_id" : "0.20230222.42118",
+    "variant_id" : "com.valvesoftware.steamruntime.platform-amd64_i386-soldier",
+    "variant" : "Platform"
+  },
+  "virtualization" : {
+    "type" : "none"
+  },
+  "container" : {
+    "type" : "pressure-vessel",
+    "host" : {
+      "path" : "/run/host",
+      "os-release" : {
+        "id" : "pop",
+        "id_like" : [
+          "ubuntu",
+          "debian"
+        ],
+        "name" : "Pop!_OS",
+        "pretty_name" : "Pop!_OS 22.04 LTS",
+        "version_id" : "22.04",
+        "version_codename" : "jammy"
+      }
+    }
+  },
+  "driver_environment" : [
+    "DISPLAY=:1",
+    "LD_LIBRARY_PATH=/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/pinned_libs_32:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/pinned_libs_64:/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/aliases:/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/aliases:/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu:/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu:/lib/i386-linux-gnu:/usr/local/lib:/lib/x86_64-linux-gnu:/lib:/lib/i386-linux-gnu/sse2:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/lib/i386-linux-gnu:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/usr/lib/i386-linux-gnu:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/lib/x86_64-linux-gnu:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/usr/lib/x86_64-linux-gnu:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/lib:/home/anish/.local/share/Steam/steamapps/common/SteamLinuxRuntime/var/steam-runtime/usr/lib",
+    "PULSE_CLIENTCONFIG=/run/pressure-vessel/pulse/config",
+    "PULSE_SERVER=unix:/run/pressure-vessel/pulse/native",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n030000004c050000cc09000011810000,PS4 Controller,a:b0,b:b1,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b11,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b12,righttrigger:a5,rightx:a3,righty:a4,start:b9,x:b3,y:b2,platform:Linux",
+    "VK_DRIVER_FILES=/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+    "VK_ICD_FILENAMES=/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "__EGL_EXTERNAL_PLATFORM_CONFIG_FILENAMES=/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json:/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+    "__EGL_VENDOR_LIBRARY_FILENAMES=/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/10_nvidia.json:/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/50_mesa.json"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/i386-linux-gnu",
+      "libdl-PLATFORM" : "i686",
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/run/host/usr/lib/i386-linux-gnu/ld-linux.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "timeout: the monitored command dumped core"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : -1,
+          "terminating-signal" : 11,
+          "terminating-signal-name" : "Segmentation fault",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "messages" : [
+            "Wflinfo error: failed to get function pointer for glGetError"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "glvnd",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/dri/dummy_drv_video.so",
+          "version" : "libva1",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/x86_64-linux-gnu",
+      "libdl-PLATFORM" : "haswell",
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/run/host/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "timeout: the monitored command dumped core"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : -1,
+          "terminating-signal" : 11,
+          "terminating-signal-name" : "Segmentation fault",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "NVIDIA VDPAU Driver Shared Library  525.85.05  Sat Jan 14 00:38:30 UTC 2023\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "OpenGL ES 3.2 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i830_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/home/anish/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/dri/dummy_drv_video.so",
+          "version" : "libva1",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.525.85.05",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.525.85.05",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so",
+          "library_link" : "libvdpau_va_gl.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so.1",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/50_mesa.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ],
+    "external_platforms" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json",
+        "library_path" : "libnvidia-egl-wayland.so.1",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+        "library_path" : "libnvidia-egl-gbm.so.1",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/0/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.3.224",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/3/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/4/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/5/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/6/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/7/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/8/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/explicit_layer.d/0.json",
+        "name" : "VK_LAYER_INTEL_nullhw",
+        "description" : "INTEL NULL HW",
+        "type" : "GLOBAL",
+        "api_version" : "1.1.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_INTEL_nullhw.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/explicit_layer.d/1.json",
+        "name" : "VK_LAYER_MESA_overlay",
+        "description" : "Mesa Overlay layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_overlay.so",
+        "issues" : [
+        ]
+      }
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/4.json",
+        "name" : "VK_LAYER_MESA_device_select",
+        "description" : "Linux device selection layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_device_select.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/5.json",
+        "name" : "VK_LAYER_NV_optimus",
+        "description" : "NVIDIA Optimus layer",
+        "type" : "INSTANCE",
+        "api_version" : "1.3.224",
+        "implementation_version" : "1",
+        "library_path" : "libGLX_nvidia.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+
+"soldier runtime container" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/anish/.local/share/Steam",
+    "data_path" : "/home/anish/.local/share/Steam",
+    "bin32_path" : "/home/anish/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/bin/steam",
+    "steamscript_version" : "1.0.0.75",
+    "issues" : [
+      "missing-steam-uri-handler",
+      "unexpected-steam-uri-handler"
+    ]
+  },
+  "runtime" : {
+    "path" : "/",
+    "version" : "0.20230222.42118",
+    "issues" : [
+    ],
+    "overrides" : {
+      "list" : [
+        "overrides/lib/",
+        "overrides/lib/i386-linux-gnu/",
+        "overrides/lib/i386-linux-gnu/aliases/",
+        "overrides/lib/i386-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/i386-linux-gnu/libOSMesa.so.8",
+        "overrides/lib/i386-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/i386-linux-gnu/libXaw.so.7",
+        "overrides/lib/i386-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/i386-linux-gnu/libbz2.so.1.0",
+        "overrides/lib/i386-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/i386-linux-gnu/libcurl-gnutls.so.4",
+        "overrides/lib/i386-linux-gnu/dri/",
+        "overrides/lib/i386-linux-gnu/dri/crocus_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/i386-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/i386-linux-gnu/libBrokenLocale.so.1",
+        "overrides/lib/i386-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libEGL.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/i386-linux-gnu/libEGL_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/i386-linux-gnu/libEGL_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libGL.so.1.7.0",
+        "overrides/lib/i386-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/i386-linux-gnu/libGLESv1_CM_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/i386-linux-gnu/libGLESv2_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_nvidia.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLdispatch.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libLLVM-15.so.1 -> /run/host/usr/lib/i386-linux-gnu/libLLVM-15.so.1",
+        "overrides/lib/i386-linux-gnu/libVkLayer_INTEL_nullhw.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_INTEL_nullhw.so",
+        "overrides/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so",
+        "overrides/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so",
+        "overrides/lib/i386-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libX11-xcb.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libX11.so.6 -> /run/host/usr/lib/i386-linux-gnu/libX11.so.6.4.0",
+        "overrides/lib/i386-linux-gnu/libXau.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXau.so.6.0.0",
+        "overrides/lib/i386-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXdmcp.so.6.0.0",
+        "overrides/lib/i386-linux-gnu/libXext.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXext.so.6.4.0",
+        "overrides/lib/i386-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/i386-linux-gnu/libXfixes.so.3.1.0",
+        "overrides/lib/i386-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/i386-linux-gnu/libXxf86vm.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libanl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libanl.so.1",
+        "overrides/lib/i386-linux-gnu/libatomic.so.1 -> /run/host/usr/lib/i386-linux-gnu/libatomic.so.1.2.0",
+        "overrides/lib/i386-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/i386-linux-gnu/libbsd.so.0.11.5",
+        "overrides/lib/i386-linux-gnu/libc.so.6 -> /run/host/usr/lib/i386-linux-gnu/libc.so.6",
+        "overrides/lib/i386-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/i386-linux-gnu/libcrypt.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/i386-linux-gnu/libcuda.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libdl.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdl.so.2",
+        "overrides/lib/i386-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm.so.2.4.0",
+        "overrides/lib/i386-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_intel.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "overrides/lib/i386-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_radeon.so.1.0.1",
+        "overrides/lib/i386-linux-gnu/libedit.so.2 -> /run/host/usr/lib/i386-linux-gnu/libedit.so.2.0.68",
+        "overrides/lib/i386-linux-gnu/libelf.so.1 -> /run/host/usr/lib/i386-linux-gnu/libelf-0.186.so",
+        "overrides/lib/i386-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/i386-linux-gnu/libexpat.so.1.8.7",
+        "overrides/lib/i386-linux-gnu/libffi.so.8 -> /run/host/usr/lib/i386-linux-gnu/libffi.so.8.1.0",
+        "overrides/lib/i386-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/i386-linux-gnu/libgbm.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/i386-linux-gnu/libgcc_s.so.1",
+        "overrides/lib/i386-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/i386-linux-gnu/libglapi.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libicudata.so.70 -> /run/host/usr/lib/i386-linux-gnu/libicudata.so.70.1",
+        "overrides/lib/i386-linux-gnu/libicuuc.so.70 -> /run/host/usr/lib/i386-linux-gnu/libicuuc.so.70.1",
+        "overrides/lib/i386-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libidn2.so.0.3.7",
+        "overrides/lib/i386-linux-gnu/libigdgmm.so.12 -> /run/host/usr/lib/i386-linux-gnu/libigdgmm.so.12.1.0",
+        "overrides/lib/i386-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/i386-linux-gnu/liblzma.so.5.2.5",
+        "overrides/lib/i386-linux-gnu/libm.so.6 -> /run/host/usr/lib/i386-linux-gnu/libm.so.6",
+        "overrides/lib/i386-linux-gnu/libmd.so.0 -> /run/host/usr/lib/i386-linux-gnu/libmd.so.0.0.5",
+        "overrides/lib/i386-linux-gnu/libmemusage.so -> /run/host/usr/lib/i386-linux-gnu/libmemusage.so",
+        "overrides/lib/i386-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnsl.so.1",
+        "overrides/lib/i386-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_compat.so.2",
+        "overrides/lib/i386-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_dns.so.2",
+        "overrides/lib/i386-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_files.so.2",
+        "overrides/lib/i386-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvcuvid.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-compiler.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-compiler.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-eglcore.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-eglcore.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-encode.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-fbc.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glcore.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glcore.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glsi.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glsi.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-glvkspirv.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-glvkspirv.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-ml.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-opencl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-opencl.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-opticalflow.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-opticalflow.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-ptxjitcompiler.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libnvidia-tls.so.525.85.05 -> /run/host/usr/lib/i386-linux-gnu/libnvidia-tls.so.525.85.05",
+        "overrides/lib/i386-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpciaccess.so.0.11.1",
+        "overrides/lib/i386-linux-gnu/libpcprofile.so -> /run/host/usr/lib/i386-linux-gnu/libpcprofile.so",
+        "overrides/lib/i386-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpthread.so.0",
+        "overrides/lib/i386-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/i386-linux-gnu/libresolv.so.2",
+        "overrides/lib/i386-linux-gnu/librt.so.1 -> /run/host/usr/lib/i386-linux-gnu/librt.so.1",
+        "overrides/lib/i386-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/i386-linux-gnu/libsensors.so.5.0.0",
+        "overrides/lib/i386-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/i386-linux-gnu/libstdc++.so.6.0.30",
+        "overrides/lib/i386-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/i386-linux-gnu/libthread_db.so.1",
+        "overrides/lib/i386-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/i386-linux-gnu/libtinfo.so.6.3",
+        "overrides/lib/i386-linux-gnu/libudev.so.1 -> /run/host/usr/lib/i386-linux-gnu/libudev.so.1.7.2",
+        "overrides/lib/i386-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/i386-linux-gnu/libunistring.so.2.2.0",
+        "overrides/lib/i386-linux-gnu/libutil.so.1 -> /run/host/usr/lib/i386-linux-gnu/libutil.so.1",
+        "overrides/lib/i386-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-drm.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-glx.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-x11.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libva.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva.so.2.1400.0",
+        "overrides/lib/i386-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/i386-linux-gnu/libwayland-client.so.0.20.0",
+        "overrides/lib/i386-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/i386-linux-gnu/libwayland-server.so.0.20.0",
+        "overrides/lib/i386-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri2.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri3.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-glx.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-present.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-randr.so.0.1.0",
+        "overrides/lib/i386-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-shm.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb-sync.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "overrides/lib/i386-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb.so.1.1.0",
+        "overrides/lib/i386-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/i386-linux-gnu/libxml2.so.2.9.13",
+        "overrides/lib/i386-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxshmfence.so.1.0.0",
+        "overrides/lib/i386-linux-gnu/libz.so.1 -> /run/host/usr/lib/i386-linux-gnu/libz.so.1.2.11",
+        "overrides/lib/i386-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/i386-linux-gnu/libzstd.so.1.4.8",
+        "overrides/lib/i386-linux-gnu/vulkan/",
+        "overrides/lib/i386-linux-gnu/vulkan/0/",
+        "overrides/lib/i386-linux-gnu/vulkan/2/",
+        "overrides/lib/i386-linux-gnu/vulkan/3/",
+        "overrides/lib/i386-linux-gnu/vulkan/3/libvulkan_intel_hasvk.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_intel_hasvk.so",
+        "overrides/lib/i386-linux-gnu/vulkan/4/",
+        "overrides/lib/i386-linux-gnu/vulkan/5/",
+        "overrides/lib/i386-linux-gnu/vulkan/5/libvulkan_intel.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_intel.so",
+        "overrides/lib/i386-linux-gnu/vulkan/6/",
+        "overrides/lib/i386-linux-gnu/vulkan/7/",
+        "overrides/lib/i386-linux-gnu/vulkan/7/libvulkan_radeon.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_radeon.so",
+        "overrides/lib/i386-linux-gnu/vulkan/8/",
+        "overrides/lib/i386-linux-gnu/vulkan/8/libvulkan_lvp.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_lvp.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/libVkLayer_steam_fossilize.so -> $HOME/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/1/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/steamoverlayvulkanlayer.so -> $HOME/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "overrides/lib/i386-linux-gnu/vulkan_imp_layer/3/",
+        "overrides/lib/platform-haswell -> x86_64-linux-gnu",
+        "overrides/lib/platform-i386 -> i386-linux-gnu",
+        "overrides/lib/platform-i486 -> i386-linux-gnu",
+        "overrides/lib/platform-i586 -> i386-linux-gnu",
+        "overrides/lib/platform-i686 -> i386-linux-gnu",
+        "overrides/lib/platform-x86_64 -> x86_64-linux-gnu",
+        "overrides/lib/platform-xeon_phi -> x86_64-linux-gnu",
+        "overrides/lib/x86_64-linux-gnu/",
+        "overrides/lib/x86_64-linux-gnu/aliases/",
+        "overrides/lib/x86_64-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/x86_64-linux-gnu/libOSMesa.so.8",
+        "overrides/lib/x86_64-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/x86_64-linux-gnu/libXaw.so.7",
+        "overrides/lib/x86_64-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/x86_64-linux-gnu/libbz2.so.1.0",
+        "overrides/lib/x86_64-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4",
+        "overrides/lib/x86_64-linux-gnu/dri/",
+        "overrides/lib/x86_64-linux-gnu/dri/crocus_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i830_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+        "overrides/lib/x86_64-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libBrokenLocale.so.1",
+        "overrides/lib/x86_64-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGL.so.1.7.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv1_CM.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv1_CM.so.1.2.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv2.so.2.1.0",
+        "overrides/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libLLVM-15.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+        "overrides/lib/x86_64-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libOpenCL.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libOpenGL.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_INTEL_nullhw.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_INTEL_nullhw.so",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so",
+        "overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so",
+        "overrides/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libX11.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0",
+        "overrides/lib/x86_64-linux-gnu/libXNVCtrl.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libXNVCtrl.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXau.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0",
+        "overrides/lib/x86_64-linux-gnu/libXext.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0",
+        "overrides/lib/x86_64-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0",
+        "overrides/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libanl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libanl.so.1",
+        "overrides/lib/x86_64-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libbsd.so.0.11.5",
+        "overrides/lib/x86_64-linux-gnu/libc.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libc.so.6",
+        "overrides/lib/x86_64-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libcuda.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libdl.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdl.so.2",
+        "overrides/lib/x86_64-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "overrides/lib/x86_64-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1",
+        "overrides/lib/x86_64-linux-gnu/libedit.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libedit.so.2.0.68",
+        "overrides/lib/x86_64-linux-gnu/libelf.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libelf-0.186.so",
+        "overrides/lib/x86_64-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libexpat.so.1.8.7",
+        "overrides/lib/x86_64-linux-gnu/libffi.so.8 -> /run/host/usr/lib/x86_64-linux-gnu/libffi.so.8.1.0",
+        "overrides/lib/x86_64-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgcc_s.so.1",
+        "overrides/lib/x86_64-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libicudata.so.70 -> /run/host/usr/lib/x86_64-linux-gnu/libicudata.so.70.1",
+        "overrides/lib/x86_64-linux-gnu/libicuuc.so.70 -> /run/host/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1",
+        "overrides/lib/x86_64-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libidn2.so.0.3.7",
+        "overrides/lib/x86_64-linux-gnu/libigdgmm.so.12 -> /run/host/usr/lib/x86_64-linux-gnu/libigdgmm.so.12.1.0",
+        "overrides/lib/x86_64-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/x86_64-linux-gnu/liblzma.so.5.2.5",
+        "overrides/lib/x86_64-linux-gnu/libm.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libm.so.6",
+        "overrides/lib/x86_64-linux-gnu/libmd.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libmd.so.0.0.5",
+        "overrides/lib/x86_64-linux-gnu/libmemusage.so -> /run/host/usr/lib/x86_64-linux-gnu/libmemusage.so",
+        "overrides/lib/x86_64-linux-gnu/libmvec.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libmvec.so.1",
+        "overrides/lib/x86_64-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnsl.so.1",
+        "overrides/lib/x86_64-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_compat.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_dns.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_files.so.2",
+        "overrides/lib/x86_64-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvcuvid.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-cfg.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-compiler.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-compiler.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1.1.9",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-eglcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-eglcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-encode.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glsi.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-glvkspirv.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-ml.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-opencl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-rtcore.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libnvidia-tls.so.525.85.05 -> /run/host/usr/lib/x86_64-linux-gnu/libnvidia-tls.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1",
+        "overrides/lib/x86_64-linux-gnu/libpcprofile.so -> /run/host/usr/lib/x86_64-linux-gnu/libpcprofile.so",
+        "overrides/lib/x86_64-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpthread.so.0",
+        "overrides/lib/x86_64-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libresolv.so.2",
+        "overrides/lib/x86_64-linux-gnu/librt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/librt.so.1",
+        "overrides/lib/x86_64-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0",
+        "overrides/lib/x86_64-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30",
+        "overrides/lib/x86_64-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libthread_db.so.1",
+        "overrides/lib/x86_64-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libtinfo.so.6.3",
+        "overrides/lib/x86_64-linux-gnu/libudev.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libudev.so.1.7.2",
+        "overrides/lib/x86_64-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libunistring.so.2.2.0",
+        "overrides/lib/x86_64-linux-gnu/libutil.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libutil.so.1",
+        "overrides/lib/x86_64-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-drm.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-glx.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-x11.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libva.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva.so.2.1400.0",
+        "overrides/lib/x86_64-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libvdpau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.20.0",
+        "overrides/lib/x86_64-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.20.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri2.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "overrides/lib/x86_64-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0",
+        "overrides/lib/x86_64-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13",
+        "overrides/lib/x86_64-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/libz.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libz.so.1.2.11",
+        "overrides/lib/x86_64-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.8",
+        "overrides/lib/x86_64-linux-gnu/vdpau/",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.525.85.05",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "overrides/lib/x86_64-linux-gnu/vulkan/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/0/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/0/libvulkan_lvp.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/2/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_intel.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/3/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/4/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/4/libvulkan_radeon.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_radeon.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/5/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/6/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/6/libvulkan_intel_hasvk.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_intel_hasvk.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan/7/",
+        "overrides/lib/x86_64-linux-gnu/vulkan/8/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/0/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/libVkLayer_steam_fossilize.so -> $HOME/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/2/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/",
+        "overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/steamoverlayvulkanlayer.so -> $HOME/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "overrides/share/",
+        "overrides/share/egl/",
+        "overrides/share/egl/egl_external_platform.d/",
+        "overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json -> /run/host/usr/share/egl/egl_external_platform.d/10_nvidia_wayland.json",
+        "overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json -> /run/host/usr/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+        "overrides/share/glvnd/",
+        "overrides/share/glvnd/egl_vendor.d/",
+        "overrides/share/glvnd/egl_vendor.d/10_nvidia.json -> /run/host/usr/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "overrides/share/glvnd/egl_vendor.d/50_mesa.json -> /run/host/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+        "overrides/share/vulkan/",
+        "overrides/share/vulkan/explicit_layer.d/",
+        "overrides/share/vulkan/explicit_layer.d/0.json -> /run/host/usr/share/vulkan/explicit_layer.d/VkLayer_INTEL_nullhw.json",
+        "overrides/share/vulkan/explicit_layer.d/1.json -> /run/host/usr/share/vulkan/explicit_layer.d/VkLayer_MESA_overlay.json",
+        "overrides/share/vulkan/icd.d/",
+        "overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json",
+        "overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/intel_icd.i686.json",
+        "overrides/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+        "overrides/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "overrides/share/vulkan/icd.d/nvidia_icd.json -> /run/host/usr/share/vulkan/icd.d/nvidia_icd.json",
+        "overrides/share/vulkan/icd.d/radeon_icd.i686.json",
+        "overrides/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "overrides/share/vulkan/implicit_layer.d/",
+        "overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "overrides/share/vulkan/implicit_layer.d/4.json -> /run/host/usr/share/vulkan/implicit_layer.d/VkLayer_MESA_device_select.json",
+        "overrides/share/vulkan/implicit_layer.d/5.json -> /run/host/usr/share/vulkan/implicit_layer.d/nvidia_layers.json"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "steamrt",
+    "id_like" : [
+      "debian"
+    ],
+    "name" : "Steam Runtime",
+    "pretty_name" : "Steam Runtime 2 (soldier)",
+    "version_id" : "2",
+    "version_codename" : "soldier",
+    "build_id" : "0.20230222.42118",
+    "variant_id" : "com.valvesoftware.steamruntime.platform-amd64_i386-soldier",
+    "variant" : "Platform"
+  },
+  "virtualization" : {
+    "type" : "none"
+  },
+  "container" : {
+    "type" : "pressure-vessel",
+    "host" : {
+      "path" : "/run/host",
+      "os-release" : {
+        "id" : "pop",
+        "id_like" : [
+          "ubuntu",
+          "debian"
+        ],
+        "name" : "Pop!_OS",
+        "pretty_name" : "Pop!_OS 22.04 LTS",
+        "version_id" : "22.04",
+        "version_codename" : "jammy"
+      }
+    }
+  },
+  "driver_environment" : [
+    "DISPLAY=:1",
+    "LD_LIBRARY_PATH=/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/aliases:/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/aliases",
+    "PULSE_CLIENTCONFIG=/run/pressure-vessel/pulse/config",
+    "PULSE_SERVER=unix:/run/pressure-vessel/pulse/native",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux\n030000004c050000cc09000011810000,PS4 Controller,a:b0,b:b1,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b11,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b12,righttrigger:a5,rightx:a3,righty:a4,start:b9,x:b3,y:b2,platform:Linux",
+    "VK_DRIVER_FILES=/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+    "VK_ICD_FILENAMES=/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json:/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "__EGL_EXTERNAL_PLATFORM_CONFIG_FILENAMES=/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json:/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+    "__EGL_VENDOR_LIBRARY_FILENAMES=/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/10_nvidia.json:/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/50_mesa.json"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/i386-linux-gnu",
+      "libdl-PLATFORM" : "i686",
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/run/host/usr/lib/i386-linux-gnu/ld-linux.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "timeout: the monitored command dumped core"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : -1,
+          "terminating-signal" : 11,
+          "terminating-signal-name" : "Segmentation fault",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "messages" : [
+            "Wflinfo error: failed to get function pointer for glGetError"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "glvnd",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/crocus_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/libGLX_mesa.so.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/libGLX_nvidia.so.0"
+        },
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "libdl-LIB" : "lib/x86_64-linux-gnu",
+      "libdl-PLATFORM" : "haswell",
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/run/host/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "timeout",
+            "cannot-draw"
+          ],
+          "exit-status" : 124,
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "NVIDIA VDPAU Driver Shared Library  525.85.05  Sat Jan 14 00:38:30 UTC 2023\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.14.0",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: Trying to open /usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "vaInitialize (va_display, &major_version, &minor_version) failed: unknown libva error (-1)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "4.6.0 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "NVIDIA GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+          "version" : "OpenGL ES 3.2 NVIDIA 525.85.05",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/crocus_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i830_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i830_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_drv_video.so",
+          "version" : "libva2",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.525.85.05",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.525.85.05",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so",
+          "library_link" : "libvdpau_va_gl.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_va_gl.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_virtio_gpu.so.1",
+          "library_link" : "libvdpau_virtio_gpu.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/libGLX_nvidia.so.0"
+        },
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_nvidia.so.525.85.05"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/glvnd/egl_vendor.d/50_mesa.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ],
+    "external_platforms" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/10_nvidia_wayland.json",
+        "library_path" : "libnvidia-egl-wayland.so.1",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/egl/egl_external_platform.d/15_nvidia_gbm.json",
+        "library_path" : "libnvidia-egl-gbm.so.1",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/0/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/nvidia_icd.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.3.224",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/3/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/4/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/5/libvulkan_intel.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/intel_hasvk_icd.x86_64.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan/6/libvulkan_intel_hasvk.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/7/libvulkan_radeon.so",
+        "api_version" : "1.3.230",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/icd.d/lvp_icd.i686.json",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan/8/libvulkan_lvp.so",
+        "api_version" : "1.1.230",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/explicit_layer.d/0.json",
+        "name" : "VK_LAYER_INTEL_nullhw",
+        "description" : "INTEL NULL HW",
+        "type" : "GLOBAL",
+        "api_version" : "1.1.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_INTEL_nullhw.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/explicit_layer.d/1.json",
+        "name" : "VK_LAYER_MESA_overlay",
+        "description" : "Mesa Overlay layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_overlay.so",
+        "issues" : [
+        ]
+      }
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan_imp_layer/0/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/1/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/i386-linux-gnu/vulkan_imp_layer/2/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.207",
+        "implementation_version" : "1",
+        "library_path" : "/usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/3/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/4.json",
+        "name" : "VK_LAYER_MESA_device_select",
+        "description" : "Linux device selection layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.3.211",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_device_select.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/lib/pressure-vessel/overrides/share/vulkan/implicit_layer.d/5.json",
+        "name" : "VK_LAYER_NV_optimus",
+        "description" : "NVIDIA Optimus layer",
+        "type" : "INSTANCE",
+        "api_version" : "1.3.224",
+        "implementation_version" : "1",
+        "library_path" : "libGLX_nvidia.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
