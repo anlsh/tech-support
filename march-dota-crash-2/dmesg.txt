@@ -1,0 +1,2 @@
+[Fri Mar 10 22:25:24 2023] Asynchronous wait on fence NVIDIA:nvidia.prime:18411 timed out (hint:intel_atomic_commit_ready [i915])
+[Fri Mar 10 22:25:50 2023] NVRM: Xid (PCI:0000:01:00): 8, pid=15424, name=dota2, Channel 0000000f

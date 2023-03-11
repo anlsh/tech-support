@@ -1,0 +1,271 @@
+Mar 10 22:03:11 pop-os rtkit-daemon[2104]: Supervising 10 threads of 5 processes of 1 users.
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:48] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:48] Checking for update on startup
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:48] Checking for available updates...
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:48] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_client_ubuntu12
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:48] Manifest download: send request
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Manifest download: waiting for download to finish
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Manifest download: finished
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Download skipped: /steam_client_ubuntu12 version 1676336721, installed version 1676336721, existing pending version 0
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Nothing to do
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Verifying installation...
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:49] Performing checksum verification of executable files
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:50:50] Verification complete
+Mar 10 21:58:25 pop-os steam.desktop[10652]: XRRGetOutputInfo Workaround: initialized with override: 0 real: 0xf3c89370
+Mar 10 21:58:25 pop-os steam.desktop[10652]: XRRGetCrtcInfo Workaround: initialized with override: 0 real: 0xf3c87cc0
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:54] Background update loop checking for update. . .
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:54] Checking for available updates...
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_client_ubuntu12
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:54] Manifest download: send request
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:54] Manifest download: waiting for download to finish
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:55] Manifest download: finished
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:55] Download skipped by HTTP 304 Not Modified
+Mar 10 21:58:25 pop-os steam.desktop[10652]: [2023-03-10 21:52:55] Nothing to do
+Mar 10 21:58:25 pop-os steam.desktop[10652]: src/steamexe/main.cpp (254) : Assertion Failed: reaping pid: 11190 -- gameoverlayui
+Mar 10 21:58:25 pop-os steam.desktop[12013]: assert_20230310215825_39.dmp[12013]: Uploading dump (out-of-process)
+Mar 10 21:58:25 pop-os steam.desktop[12013]: /tmp/dumps/assert_20230310215825_39.dmp
+Mar 10 21:58:25 pop-os assert_20230310215825_39.dmp[12013]: Uploading dump (out-of-process)
+                                                            /tmp/dumps/assert_20230310215825_39.dmp
+Mar 10 21:58:25 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:58:25 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:58:26 pop-os steam.desktop[12013]: assert_20230310215825_39.dmp[12013]: Finished uploading minidump (out-of-process): success = yes
+Mar 10 21:58:26 pop-os steam.desktop[12013]: assert_20230310215825_39.dmp[12013]: response: CrashID=bp-da69ac06-5c3e-4516-8de0-2e9022230310
+Mar 10 21:58:26 pop-os steam.desktop[12013]: assert_20230310215825_39.dmp[12013]: file ''/tmp/dumps/assert_20230310215825_39.dmp'', upload yes: ''CrashID=bp-da69ac06-5c3e-4516-8de0-2e902223>
+Mar 10 21:58:26 pop-os assert_20230310215825_39.dmp[12013]: Finished uploading minidump (out-of-process): success = yes
+Mar 10 21:58:26 pop-os assert_20230310215825_39.dmp[12013]: response: CrashID=bp-da69ac06-5c3e-4516-8de0-2e9022230310
+Mar 10 21:58:26 pop-os assert_20230310215825_39.dmp[12013]: file ''/tmp/dumps/assert_20230310215825_39.dmp'', upload yes: ''CrashID=bp-da69ac06-5c3e-4516-8de0-2e9022230310''
+Mar 10 21:58:31 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaWindowGroup>:0x55f65fcf4300] is on because it needs an allocation.
+Mar 10 21:58:31 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaWindowActorX11>:0x55f6626ca720] is on because it needs an allocation.
+Mar 10 21:58:31 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaSurfaceActorX11>:0x55f663156a20] is on because it needs an allocation.
+Mar 10 21:58:33 pop-os rtkit-daemon[2104]: Successfully made thread 12040 of process 11930 owned by '1000' high priority at nice level -15.
+Mar 10 21:58:33 pop-os rtkit-daemon[2104]: Supervising 10 threads of 5 processes of 1 users.
+Mar 10 21:58:33 pop-os rtkit-daemon[2104]: Successfully made thread 12041 of process 11930 owned by '1000' high priority at nice level -15.
+Mar 10 21:58:33 pop-os rtkit-daemon[2104]: Supervising 11 threads of 5 processes of 1 users.
+Mar 10 21:58:35 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:58:35 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:58:45 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:58:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:58:55 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:58:55 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:05 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:05 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:15 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:15 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:25 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:25 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:35 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:35 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:45 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:55 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:55 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:05 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:05 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:15 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:15 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:25 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:25 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:35 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:35 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:45 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:56 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:56 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:06 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:06 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:16 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:16 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:26 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:26 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:36 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:36 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:39 pop-os kernel: NVRM: GPU at PCI:0000:01:00: GPU-d76d0779-c176-db76-fc00-4752702b5ac6
+Mar 10 22:01:39 pop-os kernel: NVRM: Xid (PCI:0000:01:00): 8, pid=11930, name=dota2, Channel 0000000f
+Mar 10 22:01:41 pop-os systemd[3960]: Starting Tracker metadata extractor...
+Mar 10 22:01:41 pop-os systemd[3960]: Started Tracker metadata extractor.
+Mar 10 22:01:46 pop-os /usr/libexec/gdm-x-session[4036]: (WW) NVIDIA: Wait for channel idle timed out.
+Mar 10 22:01:46 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:46 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:02 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:02 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:13 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:13 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Couldn't move process 12287 to requested cgroup '/user.slice/user-1000.slice/user@1000.service/app.sli>
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed to add PIDs to scope's control group: No such process
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed with result 'resources'.
+Mar 10 22:02:40 pop-os systemd[3960]: Failed to start Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os systemd[3960]: Started Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Warning: Theme implementations should use Kirigami.BasicThemeDefinition for its root item
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Failed to find a Kirigami platform plugin
+Mar 10 22:02:42 pop-os systemd[3960]: Starting Track hardware statistics...
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_power" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_power.so"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_lmsensors" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_lmsensors.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_disk" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_disk.so"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2242] audit: op="statistics" interface="enp0s31f6" ifindex=2 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2270] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2296] audit: op="statistics" interface="wlp0s20f3" ifindex=4 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_network" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_network.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_memory" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_memory.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_cpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_cpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Found unsupported GPU: /sys/devices/pci0000:00/0000:00:02.0
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_gpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_gpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_osinfo" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_osinfo.so"
+Mar 10 22:02:43 pop-os systemd[3960]: Started Track hardware statistics.
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Could not determine Plasma version, got:  "The name is not activatable"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Starting Hostname Service...
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4060] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4131] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Started Hostname Service.
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:25: TypeError: Cannot read property 'title' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:81: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/GlobalMenu.qml:32: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/ksysguard/page/EditablePage.qml?page=overview.page:241:5: QML Loader: Bi>
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:13 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Couldn't move process 12287 to requested cgroup '/user.slice/user-1000.slice/user@1000.service/app.sli>
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed to add PIDs to scope's control group: No such process
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed with result 'resources'.
+Mar 10 22:02:40 pop-os systemd[3960]: Failed to start Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os systemd[3960]: Started Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Warning: Theme implementations should use Kirigami.BasicThemeDefinition for its root item
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Failed to find a Kirigami platform plugin
+Mar 10 22:02:42 pop-os systemd[3960]: Starting Track hardware statistics...
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_power" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_power.so"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_lmsensors" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_lmsensors.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_disk" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_disk.so"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2242] audit: op="statistics" interface="enp0s31f6" ifindex=2 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2270] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2296] audit: op="statistics" interface="wlp0s20f3" ifindex=4 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_network" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_network.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_memory" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_memory.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_cpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_cpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Found unsupported GPU: /sys/devices/pci0000:00/0000:00:02.0
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_gpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_gpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_osinfo" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_osinfo.so"
+Mar 10 22:02:43 pop-os systemd[3960]: Started Track hardware statistics.
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Could not determine Plasma version, got:  "The name is not activatable"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Starting Hostname Service...
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4060] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4131] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Started Hostname Service.
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:25: TypeError: Cannot read property 'title' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:81: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/GlobalMenu.qml:32: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/ksysguard/page/EditablePage.qml?page=overview.page:241:5: QML Loader: Bi>
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 21:58:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:58:55 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:58:55 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:05 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:05 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:15 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:15 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:25 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:25 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:35 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:35 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:45 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 21:59:55 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 21:59:55 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:05 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:05 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:15 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:15 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:25 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:25 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:35 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:35 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:45 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:45 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:00:56 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:00:56 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:06 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:06 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:16 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:16 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:26 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:26 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:36 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:36 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:01:39 pop-os kernel: NVRM: GPU at PCI:0000:01:00: GPU-d76d0779-c176-db76-fc00-4752702b5ac6
+Mar 10 22:01:39 pop-os kernel: NVRM: Xid (PCI:0000:01:00): 8, pid=11930, name=dota2, Channel 0000000f
+Mar 10 22:01:41 pop-os systemd[3960]: Starting Tracker metadata extractor...
+Mar 10 22:01:41 pop-os systemd[3960]: Started Tracker metadata extractor.
+Mar 10 22:01:46 pop-os /usr/libexec/gdm-x-session[4036]: (WW) NVIDIA: Wait for channel idle timed out.
+Mar 10 22:01:46 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:01:46 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:02 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:02 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:13 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:13 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:23 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:33 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Couldn't move process 12287 to requested cgroup '/user.slice/user-1000.slice/user@1000.service/app.sli>
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed to add PIDs to scope's control group: No such process
+Mar 10 22:02:40 pop-os systemd[3960]: app-gnome-pop\x2dcosmic\x2dlauncher-12287.scope: Failed with result 'resources'.
+Mar 10 22:02:40 pop-os systemd[3960]: Failed to start Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os systemd[3960]: Started Application launched by gnome-shell.
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Warning: Theme implementations should use Kirigami.BasicThemeDefinition for its root item
+Mar 10 22:02:42 pop-os org.kde.plasma-systemmonitor.desktop[12331]: kf.kirigami: Failed to find a Kirigami platform plugin
+Mar 10 22:02:42 pop-os systemd[3960]: Starting Track hardware statistics...
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_power" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_power.so"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netOutbound"
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:02:43 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_lmsensors" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_lmsensors.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_disk" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_disk.so"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2242] audit: op="statistics" interface="enp0s31f6" ifindex=2 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2270] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.2296] audit: op="statistics" interface="wlp0s20f3" ifindex=4 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_network" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_network.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_memory" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_memory.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_cpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_cpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Found unsupported GPU: /sys/devices/pci0000:00/0000:00:02.0
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_gpu" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_gpu.so"
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Loaded plugin "ksystemstats_plugin_osinfo" from file "/usr/lib/x86_64-linux-gnu/qt5/plugins/ksystemstats/ksystemstats_plugin_osinfo.so"
+Mar 10 22:02:43 pop-os systemd[3960]: Started Track hardware statistics.
+Mar 10 22:02:43 pop-os ksystemstats[12342]: Could not determine Plasma version, got:  "The name is not activatable"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Starting Hostname Service...
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4060] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os NetworkManager[1042]: <info>  [1678514563.4131] audit: op="statistics" interface="enx00e04c7145d1" ifindex=3 args="500" pid=12342 uid=1000 result="success"
+Mar 10 22:02:43 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/share/ksysguard/sensorfaces/org.kde.ksysguard.piechart/contents/ui/FullRepresentation.qml:21:1: QML FullRepre>
+Mar 10 22:02:43 pop-os systemd[1]: Started Hostname Service.
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:25: TypeError: Cannot read property 'title' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/main.qml:81: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: qrc:/GlobalMenu.qml:32: TypeError: Cannot read property 'edit' of null
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: file:///usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/ksysguard/page/EditablePage.qml?page=overview.page:241:5: QML Loader: Bi>
+Mar 10 22:02:50 pop-os org.kde.plasma-systemmonitor.desktop[12331]: Could not find attribute "netInbound"

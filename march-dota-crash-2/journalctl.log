@@ -1,0 +1,153 @@
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libengine2.so, got 0x560c218e8b00
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Using breakpad crash handler
+Mar 10 22:22:52 pop-os steam.desktop[15424]: [S_API] SteamAPI_Init(): Loaded '/home/anish/.local/share/Steam/linux64/steamclient.so' OK.
+Mar 10 22:22:52 pop-os steam.desktop[10652]: Game process updated : AppID 570 "/home/anish/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=570 -- /home/anish/.local/share/Steam/ubun>
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Setting breakpad minidump AppID = 570
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Forcing breakpad minidump interfaces to load
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Looking up breakpad interfaces from steamclient
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Calling BreakpadMiniDumpSystemInit
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Looking up breakpad interfaces from steamclient
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Calling BreakpadMiniDumpSystemInit
+Mar 10 22:22:52 pop-os steam.desktop[15424]: SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198068283127 [API loaded yes]
+Mar 10 22:22:52 pop-os steam.desktop[15424]: SteamInternal_SetMinidumpSteamID:  Setting Steam ID:  76561198068283127
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Setting breakpad minidump AppID = 373300
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded libSDL2-2.0.so.0, got 0x560c21d4ca00
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 11 threads of 6 processes of 1 users.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 11 threads of 6 processes of 1 users.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 11 threads of 6 processes of 1 users.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Successfully made thread 15424 of process 15424 owned by '1000' high priority at nice level 0.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 12 threads of 7 processes of 1 users.
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libtier0.so, got 0x560c218e8000
+Mar 10 22:22:52 pop-os xdg-desktop-por[4708]: Backend call failed: GDBus.Error:org.gnome.SessionManager.GeneralError: Application ID not specified
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libfilesystem_stdio.so, got 0x560c218e9b80
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libinputsystem.so, got 0x560c218e9600
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/liblocalize.so, got 0x560c218e9080
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/librendersystemvulkan.so, got 0x560c218ea680
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libresourcesystem.so, got 0x560c218ea100
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libschemasystem.so, got 0x560c23613600
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Successfully made thread 15439 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 12 threads of 7 processes of 1 users.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Successfully made thread 15440 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 13 threads of 7 processes of 1 users.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Successfully made thread 15441 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:22:52 pop-os rtkit-daemon[2104]: Supervising 14 threads of 7 processes of 1 users.
+Mar 10 22:22:52 pop-os steam.desktop[15424]: Fossilize INFO: Overriding serialization path: "/home/anish/.local/share/Steam/steamapps/shadercache/570/fozpipelinesv6/steamapprun_pipeline_cac>
+Mar 10 22:22:53 pop-os rtkit-daemon[2104]: Successfully made thread 15453 of process 15424 owned by '1000' high priority at nice level -10.
+Mar 10 22:22:53 pop-os rtkit-daemon[2104]: Supervising 15 threads of 7 processes of 1 users.
+Mar 10 22:22:53 pop-os gnome-shell[4232]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x6000e9
+Mar 10 22:22:53 pop-os gnome-shell[4232]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x6000e9
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libmaterialsystem2.so, got 0x560c33955100
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libpanorama_text_pango.so, got 0x560c33954600
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded libpango-1.0.so, got 0x560c4621f500
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Fontconfig warning: "/home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/core/panorama/fonts/conf.d/41-repl-os-win.conf", line 148:>
+Mar 10 22:22:53 pop-os steam.desktop[15424]: Fontconfig warning: "/home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/core/panorama/fonts/conf.d/41-repl-os-win.conf", line 160:>
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libpanorama_text_pango.so, got 0x560c33954600
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded libpangoft2-1.0.so, got 0x560c4621f000
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libmeshsystem.so, got 0x560c33953000
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libworldrenderer.so, got 0x560c3371e680
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libvscript.so, got 0x560c3371e100
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libnetworksystem.so, got 0x560c3371db80
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libanimationsystem.so, got 0x560c3371d600
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libvphysics2.so, got 0x560c3517d680
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libsoundsystem.so, got 0x560c3517d100
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libscenesystem.so, got 0x560c3517cb80
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libparticles.so, got 0x560c3517c600
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/dota/bin/linuxsteamrt64/libserver.so, got 0x560c35407b00
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/dota/bin/linuxsteamrt64/libclient.so, got 0x560c37c02b80
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libpanorama.so, got 0x560c37c02080
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libv8system.so, got 0x560c37c01b00
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded libmpg123.so.0, got 0x560c285e3000
+Mar 10 22:22:54 pop-os rtkit-daemon[2104]: Successfully made thread 15467 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:22:54 pop-os rtkit-daemon[2104]: Supervising 16 threads of 7 processes of 1 users.
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libcairo.so, got 0x560c38813100
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libengine2.so, got 0x560c218e8b00
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/dota/bin/linuxsteamrt64/libhost.so, got 0x560c38812b80
+Mar 10 22:22:54 pop-os steam.desktop[15424]: Loaded /home/anish/.local/share/Steam/steamapps/common/dota 2 beta/game/bin/linuxsteamrt64/libscenefilecache.so, got 0x560c38812600
+Mar 10 22:22:59 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:22:59 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:02 pop-os rtkit-daemon[2104]: Successfully made thread 15513 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:23:02 pop-os rtkit-daemon[2104]: Supervising 16 threads of 7 processes of 1 users.
+Mar 10 22:23:02 pop-os rtkit-daemon[2104]: Successfully made thread 15514 of process 15424 owned by '1000' high priority at nice level -15.
+Mar 10 22:23:02 pop-os rtkit-daemon[2104]: Supervising 17 threads of 7 processes of 1 users.
+Mar 10 22:23:09 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:09 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:19 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:19 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:29 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:29 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:39 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:39 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:49 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:49 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:23:59 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:23:59 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:09 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:09 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:19 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:19 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:29 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:29 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:29 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:39 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:39 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:49 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:49 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:24:59 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:24:59 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:25:01 pop-os CRON[15667]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 22:25:01 pop-os CRON[15668]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Mar 10 22:25:01 pop-os CRON[15667]: pam_unix(cron:session): session closed for user root
+Mar 10 22:25:09 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:25:09 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:25:21 pop-os /usr/libexec/gdm-x-session[4036]: (EE) NVIDIA(GPU-0): WAIT (2, 8, 0x8000, 0x0005bcb0, 0x0005c088)
+Mar 10 22:25:25 pop-os kernel: Asynchronous wait on fence NVIDIA:nvidia.prime:18411 timed out (hint:intel_atomic_commit_ready [i915])
+Mar 10 22:25:28 pop-os /usr/libexec/gdm-x-session[4036]: (EE) NVIDIA(GPU-0): WAIT (1, 8, 0x8000, 0x0005bcb0, 0x0005c088)
+Mar 10 22:25:31 pop-os /usr/libexec/gdm-x-session[4036]: (EE) NVIDIA(GPU-0): WAIT (2, 8, 0x8000, 0x0005bcb0, 0x0005c090)
+Mar 10 22:25:38 pop-os /usr/libexec/gdm-x-session[4036]: (EE) NVIDIA(GPU-0): WAIT (1, 8, 0x8000, 0x0005bcb0, 0x0005c090)
+Mar 10 22:25:42 pop-os firefox.desktop[12401]: [GFX1]: Device reset due to WR context
+Mar 10 22:25:42 pop-os firefox.desktop[12401]: [GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Mar 10 22:25:43 pop-os /usr/libexec/gdm-x-session[4036]: (WW) NVIDIA: Wait for channel idle timed out.
+Mar 10 22:25:46 pop-os /usr/libexec/gdm-x-session[4036]: (EE) NVIDIA(GPU-0): WAIT (2, 8, 0x8000, 0x0005bcb0, 0x00020408)
+Mar 10 22:25:51 pop-os firefox.desktop[12401]: [GFX1-]: Failed to make render context current during destroying.
+Mar 10 22:25:52 pop-os kernel: NVRM: Xid (PCI:0000:01:00): 8, pid=15424, name=dota2, Channel 0000000f
+Mar 10 22:25:52 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:25:52 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:25:55 pop-os systemd[3960]: Created slice Slice /app/dbus-:1.5-org.gnome.Nautilus.
+Mar 10 22:25:55 pop-os systemd[3960]: Started dbus-:1.5-org.gnome.Nautilus@0.service.
+Mar 10 22:25:55 pop-os nautilus[15760]: Using GtkSettings:gtk-application-prefer-dark-theme together with HdyStyleManager is unsupported. Please use HdyStyleManager:color-scheme instead.
+Mar 10 22:25:56 pop-os systemd[1]: Starting Hostname Service...
+Mar 10 22:25:56 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaWindowGroup>:0x55f65fcf4300] is on because it needs an allocation.
+Mar 10 22:25:56 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaWindowActorX11>:0x55f6626cbec0] is on because it needs an allocation.
+Mar 10 22:25:56 pop-os gnome-shell[4232]: Can't update stage views actor <unnamed>[<MetaSurfaceActorX11>:0x55f6628d5840] is on because it needs an allocation.
+Mar 10 22:25:56 pop-os systemd[1]: Started Hostname Service.
+Mar 10 22:26:00 pop-os sudo[15782]:    anish : TTY=pts/0 ; PWD=/home/anish ; USER=root ; COMMAND=/usr/bin/dmesg -T
+Mar 10 22:26:00 pop-os sudo[15782]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Mar 10 22:26:00 pop-os sudo[15782]: pam_unix(sudo:session): session closed for user root
+Mar 10 22:26:02 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:02 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:26:12 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:12 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:26:22 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:22 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:26:26 pop-os systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 10 22:26:32 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:32 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:26:42 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:42 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:26:52 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:26:52 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:27:02 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:27:02 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:27:12 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:27:12 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:27:22 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:27:22 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:27:32 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:27:32 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Mar 10 22:27:42 pop-os steam[10652]: g_main_context_push_thread_default: assertion 'acquired_context' failed
+Mar 10 22:27:42 pop-os steam[10652]: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
